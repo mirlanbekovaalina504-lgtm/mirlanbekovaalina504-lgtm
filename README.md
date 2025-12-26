@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 About me
+Junior Python Developer and student.
+I am learning Django and backend development.
 
-<!--
-**mirlanbekovaalina504-lgtm/mirlanbekovaalina504-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
+- Python
+- Django
+- HTML, CSS
+- Git, GitHub
+- SQLite
 
-Here are some ideas to get you started:
+## 📌 Projects
+- Django Online Book Store
+- my site (BLO
+- QR Code Generator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacts
+- Email: mirlanbekovaalina504@gmail.com
+- Telegram: https://t.me/alinaaltymyshova
